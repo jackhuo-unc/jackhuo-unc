@@ -1,4 +1,8 @@
-## Hi there 👋
+## Heyo 👋😀
+
+I'm Jack Huo - I study computer science and mathematics with a minor in physics at UNC-Chapel Hill, with the goal to understand how the world works and how its problems can be solved.
+
+Rest of page under construction 👷‍♂️🚧🏗️. Thanks for stopping by!
 
 <!--
 **jackhuo-unc/jackhuo-unc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
