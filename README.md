@@ -1,6 +1,6 @@
 ## Heyo 👋😀
 
-I'm Jack - I study computer science and mathematics with a minor in physics at UNC-Chapel Hill, trying to understand how the world works and how its problems can be solved.
+I'm Jack - I study computer science and mathematics with a minor in physics at UNC-Chapel Hill, trying to understand how the world works and how its problems could be solved.
 
 Rest of page under construction 👷‍♂️🚧🏗️. Thanks for stopping by!
 
